@@ -1,0 +1,47 @@
+_repo: Ssanin_57909
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Müller, George
+    aliases:
+    - Müller, Georg Friedrich
+    - Muller, George
+    - Mueller, George
+    birthdate: 1805
+    deathdate: 1898
+    gutenberg_agent_id: '9183'
+    url: http://www.gutenberg.org/2009/agents/9183
+    wikipedia: http://en.wikipedia.org/wiki/George_M%C3%BCller
+  translators:
+  - agent_name: Bugow, Sergej
+    gutenberg_agent_id: '49681'
+    url: http://www.gutenberg.org/2009/agents/49681
+  - agent_name: Villard, André
+    alias: Villard, Andre
+    gutenberg_agent_id: '48368'
+    url: http://www.gutenberg.org/2009/agents/48368
+creator:
+  author:
+    agent_name: Artsybashev, M. (Mikhail)
+    aliases:
+    - Арцыбашев, Михаил Петрович
+    - Artsybashev, Mikhail Petrovich
+    - Artzibashef, Michael
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '2955'
+    url: http://www.gutenberg.org/2009/agents/2955
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Artsybashev
+description: ''
+gutenberg_issued: '2018-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57909'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ssanin
+url: http://www.gutenberg.org/ebooks/57909
